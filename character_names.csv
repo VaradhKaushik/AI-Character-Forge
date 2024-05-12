@@ -1,0 +1,647 @@
+Id,Character,Game
+1,Brimstone,Valorant
+2,Viper,Valorant
+3,Omen,Valorant
+4,Killjoy,Valorant
+5,Cypher,Valorant
+6,Sova,Valorant
+7,Sage,Valorant
+8,Phoenix,Valorant
+9,Jett,Valorant
+10,Reyna,Valorant
+11,Raze,Valorant
+12,Breach,Valorant
+13,Skye,Valorant
+14,Yoru,Valorant
+15,Astra,Valorant
+16,KAYO,Valorant
+17,Chamber,Valorant
+18,Neon,Valorant
+19,Fade,Valorant
+20,Harbor,Valorant
+21,Gekko,Valorant
+22,Deadlock,Valorant
+23,Iso,Valorant
+24,AATROX,League Of Legends
+25,AHRI,League Of Legends
+26,AKALI,League Of Legends
+27,AKSHAN,League Of Legends
+28,ALISTAR,League Of Legends
+29,AMUMU,League Of Legends
+30,ANIVIA,League Of Legends
+31,ANNIE,League Of Legends
+32,APHELIOS,League Of Legends
+33,ASHE,League Of Legends
+34,AURELION SOL,League Of Legends
+35,AZIR,League Of Legends
+36,BARD,League Of Legends
+37,BEL'VETH,League Of Legends
+38,BLITZCRANK,League Of Legends
+39,BRAND,League Of Legends
+40,BRAUM,League Of Legends
+41,BRIAR,League Of Legends
+42,CAITLYN,League Of Legends
+43,CAMILLE,League Of Legends
+44,CASSIOPEIA,League Of Legends
+45,CHO'GATH,League Of Legends
+46,CORKI,League Of Legends
+47,DARIUS,League Of Legends
+48,DIANA,League Of Legends
+49,DR. MUNDO,League Of Legends
+50,DRAVEN,League Of Legends
+51,EKKO,League Of Legends
+52,ELISE,League Of Legends
+53,EVELYNN,League Of Legends
+54,EZREAL,League Of Legends
+55,FIDDLESTICKS,League Of Legends
+56,FIORA,League Of Legends
+57,FIZZ,League Of Legends
+58,GALIO,League Of Legends
+59,GANGPLANK,League Of Legends
+60,GAREN,League Of Legends
+61,GNAR,League Of Legends
+62,GRAGAS,League Of Legends
+63,GRAVES,League Of Legends
+64,GWEN,League Of Legends
+65,HECARIM,League Of Legends
+66,HEIMERDINGER,League Of Legends
+67,ILLAOI,League Of Legends
+68,IRELIA,League Of Legends
+69,IVERN,League Of Legends
+70,JANNA,League Of Legends
+71,JARVAN IV,League Of Legends
+72,JAX,League Of Legends
+73,JAYCE,League Of Legends
+74,JHIN,League Of Legends
+75,JINX,League Of Legends
+76,K'SANTE,League Of Legends
+77,KAI'SA,League Of Legends
+78,KALISTA,League Of Legends
+79,KARMA,League Of Legends
+80,KARTHUS,League Of Legends
+81,KASSADIN,League Of Legends
+82,KATARINA,League Of Legends
+83,KAYLE,League Of Legends
+84,KAYN,League Of Legends
+85,KENNEN,League Of Legends
+86,KHA'ZIX,League Of Legends
+87,KINDRED,League Of Legends
+88,KLED,League Of Legends
+89,KOG'MAW,League Of Legends
+90,LEBLANC,League Of Legends
+91,LEE SIN,League Of Legends
+92,LEONA,League Of Legends
+93,LILLIA,League Of Legends
+94,LISSANDRA,League Of Legends
+95,LUCIAN,League Of Legends
+96,LULU,League Of Legends
+97,LUX,League Of Legends
+98,MALPHITE,League Of Legends
+99,MALZAHAR,League Of Legends
+100,MAOKAI,League Of Legends
+101,MASTER YI,League Of Legends
+102,MILIO,League Of Legends
+103,MISS FORTUNE,League Of Legends
+104,MORDEKAISER,League Of Legends
+105,MORGANA,League Of Legends
+106,NAAFIRI,League Of Legends
+107,NAMI,League Of Legends
+108,NASUS,League Of Legends
+109,NAUTILUS,League Of Legends
+110,NEEKO,League Of Legends
+111,NIDALEE,League Of Legends
+112,NILAH,League Of Legends
+113,NOCTURNE,League Of Legends
+114,NUNU & WILLUMP,League Of Legends
+115,OLAF,League Of Legends
+116,ORIANNA,League Of Legends
+117,ORNN,League Of Legends
+118,PANTHEON,League Of Legends
+119,POPPY,League Of Legends
+120,PYKE,League Of Legends
+121,QIYANA,League Of Legends
+122,QUINN,League Of Legends
+123,RAKAN,League Of Legends
+124,RAMMUS,League Of Legends
+125,REK'SAI,League Of Legends
+126,RELL,League Of Legends
+127,RENATA GLASC,League Of Legends
+128,RENEKTON,League Of Legends
+129,RENGAR,League Of Legends
+130,RIVEN,League Of Legends
+131,RUMBLE,League Of Legends
+132,RYZE,League Of Legends
+133,SAMIRA,League Of Legends
+134,SEJUANI,League Of Legends
+135,SENNA,League Of Legends
+136,SERAPHINE,League Of Legends
+137,SETT,League Of Legends
+138,SHACO,League Of Legends
+139,SHEN,League Of Legends
+140,SHYVANA,League Of Legends
+141,SINGED,League Of Legends
+142,SION,League Of Legends
+143,SIVIR,League Of Legends
+144,SKARNER,League Of Legends
+145,SONA,League Of Legends
+146,SORAKA,League Of Legends
+147,SWAIN,League Of Legends
+148,SYLAS,League Of Legends
+149,SYNDRA,League Of Legends
+150,TAHM KENCH,League Of Legends
+151,TALIYAH,League Of Legends
+152,TALON,League Of Legends
+153,TARIC,League Of Legends
+154,TEEMO,League Of Legends
+155,THRESH,League Of Legends
+156,TRISTANA,League Of Legends
+157,TRUNDLE,League Of Legends
+158,TRYNDAMERE,League Of Legends
+159,TWISTED FATE,League Of Legends
+160,TWITCH,League Of Legends
+161,UDYR,League Of Legends
+162,URGOT,League Of Legends
+163,VARUS,League Of Legends
+164,VAYNE,League Of Legends
+165,VEIGAR,League Of Legends
+166,VEL'KOZ,League Of Legends
+167,VEX,League Of Legends
+168,VI,League Of Legends
+169,VIEGO,League Of Legends
+170,VIKTOR,League Of Legends
+171,VLADIMIR,League Of Legends
+172,VOLIBEAR,League Of Legends
+173,WARWICK,League Of Legends
+174,WUKONG,League Of Legends
+175,XAYAH,League Of Legends
+176,XERATH,League Of Legends
+177,XIN ZHAO,League Of Legends
+178,YASUO,League Of Legends
+179,YONE,League Of Legends
+180,YORICK,League Of Legends
+181,YUUMI,League Of Legends
+182,ZAC,League Of Legends
+183,ZED,League Of Legends
+184,ZERI,League Of Legends
+185,ZIGGS,League Of Legends
+186,ZILEAN,League Of Legends
+187,ZOE,League Of Legends
+188,ZYRA,League Of Legends
+189,ANA,Overwatch
+190,ASHE,Overwatch
+191,BAPTISTE,Overwatch
+192,BASTION,Overwatch
+193,BRIGITTE,Overwatch
+194,CASSIDY,Overwatch
+195,D.VA,Overwatch
+196,DOOMFIST,Overwatch
+197,ECHO,Overwatch
+198,GENJI,Overwatch
+199,HANZO,Overwatch
+200,ILLARI,Overwatch
+201,JUNKER QUEEN,Overwatch
+202,JUNKRAT,Overwatch
+203,KIRIKO,Overwatch
+204,LIFEWEAVER,Overwatch
+205,LÚCIO,Overwatch
+206,MEI,Overwatch
+207,MERCY,Overwatch
+208,MOIRA,Overwatch
+209,ORISA,Overwatch
+210,PHARAH,Overwatch
+211,RAMATTRA,Overwatch
+212,REAPER,Overwatch
+213,REINHARDT,Overwatch
+214,ROADHOG,Overwatch
+215,SIGMA,Overwatch
+216,SOJOURN,Overwatch
+217,SOLDIER 76,Overwatch
+218,SOMBRA,Overwatch
+219,SYMMETRA,Overwatch
+220,TORBJÖRN,Overwatch
+221,TRACER,Overwatch
+222,WIDOWMAKER,Overwatch
+223,WINSTON,Overwatch
+224,WRECKING BALL,Overwatch
+225,ZARYA,Overwatch
+226,ZENYATTA,Overwatch
+227,Abaddon,Dota 2
+228,Alchemist,Dota 2
+229,Ancient Apparition,Dota 2
+230,AntiMage,Dota 2
+231,Arc Warden,Dota 2
+232,Axe,Dota 2
+233,Bane,Dota 2
+234,Batrider,Dota 2
+235,Beastmaster,Dota 2
+236,Bloodseeker,Dota 2
+237,Bounty Hunter,Dota 2
+238,Brewmaster,Dota 2
+239,Bristleback,Dota 2
+240,Broodmother,Dota 2
+241,Centaur Warrunner,Dota 2
+242,Chaos Knight,Dota 2
+243,Chen,Dota 2
+244,Clinkz,Dota 2
+245,Clockwerk,Dota 2
+246,Crystal Maiden,Dota 2
+247,Dark Seer,Dota 2
+248,Dark Willow,Dota 2
+249,Dawnbreaker,Dota 2
+250,Dazzle,Dota 2
+251,Death Prophet,Dota 2
+252,Disruptor,Dota 2
+253,Doom,Dota 2
+254,Dragon Knight,Dota 2
+255,Drow Ranger,Dota 2
+256,Earth Spirit,Dota 2
+257,Earthshaker,Dota 2
+258,Elder Titan,Dota 2
+259,Ember Spirit,Dota 2
+260,Enchantress,Dota 2
+261,Enigma,Dota 2
+262,Faceless Void,Dota 2
+263,Grimstroke,Dota 2
+264,Gyrocopter,Dota 2
+265,Hoodwink,Dota 2
+266,Huskar,Dota 2
+267,Invoker,Dota 2
+268,Io,Dota 2
+269,Jakiro,Dota 2
+270,Juggernaut,Dota 2
+271,Keeper of the Light,Dota 2
+272,Kunkka,Dota 2
+273,Legion Commander,Dota 2
+274,Leshrac,Dota 2
+275,Lich,Dota 2
+276,Lifestealer,Dota 2
+277,Lina,Dota 2
+278,Lion,Dota 2
+279,Lone Druid,Dota 2
+280,Luna,Dota 2
+281,Lycan,Dota 2
+282,Magnus,Dota 2
+283,Marci,Dota 2
+284,Mars,Dota 2
+285,Medusa,Dota 2
+286,Meepo,Dota 2
+287,Mirana,Dota 2
+288,Monkey King,Dota 2
+289,Morphling,Dota 2
+290,Muerta,Dota 2
+291,Naga Siren,Dota 2
+292,Natures Prophet,Dota 2
+293,Necrophos,Dota 2
+294,Night Stalker,Dota 2
+295,Nyx Assassin,Dota 2
+296,Ogre Magi,Dota 2
+297,Omniknight,Dota 2
+298,Oracle,Dota 2
+299,Outworld Destroyer,Dota 2
+300,Pangolier,Dota 2
+301,Phantom Assassin,Dota 2
+302,Phantom Lancer,Dota 2
+303,Phoenix,Dota 2
+304,Primal Beast,Dota 2
+305,Puck,Dota 2
+306,Pudge,Dota 2
+307,Pugna,Dota 2
+308,Queen of Pain,Dota 2
+309,Razor,Dota 2
+310,Riki,Dota 2
+311,Rubick,Dota 2
+312,Sand King,Dota 2
+313,Shadow Demon,Dota 2
+314,Shadow Fiend,Dota 2
+315,Shadow Shaman,Dota 2
+316,Silencer,Dota 2
+317,Skywrath Mage,Dota 2
+318,Slardar,Dota 2
+319,Slark,Dota 2
+320,Snapfire,Dota 2
+321,Sniper,Dota 2
+322,Spectre,Dota 2
+323,Spirit Breaker,Dota 2
+324,Storm Spirit,Dota 2
+325,Sven,Dota 2
+326,Techies,Dota 2
+327,Templar Assassin,Dota 2
+328,Terrorblade,Dota 2
+329,Tidehunter,Dota 2
+330,Timbersaw,Dota 2
+331,Tinker,Dota 2
+332,Tiny,Dota 2
+333,Treant Protector,Dota 2
+334,Troll Warlord,Dota 2
+335,Tusk,Dota 2
+336,Underlord,Dota 2
+337,Undying,Dota 2
+338,Ursa,Dota 2
+339,Vengeful Spirit,Dota 2
+340,Venomancer,Dota 2
+341,Viper,Dota 2
+342,Visage,Dota 2
+343,Void Spirit,Dota 2
+344,Warlock,Dota 2
+345,Weaver,Dota 2
+346,Windranger,Dota 2
+347,Winter Wyvern,Dota 2
+348,Witch Doctor,Dota 2
+349,Wraith King,Dota 2
+350,Zeus,Dota 2
+351,Ash,Apex Legends
+352,Bangalore,Apex Legends
+353,Fuse,Apex Legends
+354,Horizon,Apex Legends
+355,Mirage,Apex Legends
+356,Octane,Apex Legends
+357,Revenant,Apex Legends
+358,Wraith,Apex Legends
+359,Mad Maggie,Apex Legends
+360,Caustic,Apex Legends
+361,Gibraltar,Apex Legends
+362,Rampart,Apex Legends
+363,Wattson,Apex Legends
+364,Catalyst,Apex Legends
+365,Lifeline,Apex Legends
+366,Loba,Apex Legends
+367,Newcastle,Apex Legends
+368,Bloodhound,Apex Legends
+369,Crypto,Apex Legends
+370,Pathfinder,Apex Legends
+371,Seer,Apex Legends
+372,Valkyrie,Apex Legends
+373,Vantage,Apex Legends
+374,RAM,Rainbow six seige
+375,FENRIR,Rainbow six seige
+376,BRAVA,Rainbow six seige
+377,SOLIS,Rainbow six seige
+378,GRIM,Rainbow six seige
+379,SENS,Rainbow six seige
+380,AZAMI,Rainbow six seige
+381,THORN,Rainbow six seige
+382,OSA,Rainbow six seige
+383,THUNDERBIRD,Rainbow six seige
+384,FLORES,Rainbow six seige
+385,ARUNI,Rainbow six seige
+386,ZERO,Rainbow six seige
+387,ACE,Rainbow six seige
+388,MELUSI,Rainbow six seige
+389,ORYX,Rainbow six seige
+390,IANA,Rainbow six seige
+391,WAMAI,Rainbow six seige
+392,KALI,Rainbow six seige
+393,AMARU,Rainbow six seige
+394,GOYO,Rainbow six seige
+395,NOKK,Rainbow six seige
+396,WARDEN,Rainbow six seige
+397,MOZZIE,Rainbow six seige
+398,GRIDLOCK,Rainbow six seige
+399,NOMAD,Rainbow six seige
+400,KAID,Rainbow six seige
+401,CLASH,Rainbow six seige
+402,MAVERICK,Rainbow six seige
+403,MAESTRO,Rainbow six seige
+404,ALIBI,Rainbow six seige
+405,LION,Rainbow six seige
+406,FINKA,Rainbow six seige
+407,VIGIL,Rainbow six seige
+408,DOKKAEBI,Rainbow six seige
+409,ZOFIA,Rainbow six seige
+410,ELA,Rainbow six seige
+411,YING,Rainbow six seige
+412,LESION,Rainbow six seige
+413,MIRA,Rainbow six seige
+414,JACKAL,Rainbow six seige
+415,HIBANA,Rainbow six seige
+416,ECHO,Rainbow six seige
+417,CAVEIRA,Rainbow six seige
+418,CAPITÃO,Rainbow six seige
+419,BLACKBEARD,Rainbow six seige
+420,VALKYRIE,Rainbow six seige
+421,BUCK,Rainbow six seige
+422,FROST,Rainbow six seige
+423,MUTE,Rainbow six seige
+424,SLEDGE,Rainbow six seige
+425,SMOKE,Rainbow six seige
+426,THATCHER,Rainbow six seige
+427,ASH,Rainbow six seige
+428,CASTLE,Rainbow six seige
+429,PULSE,Rainbow six seige
+430,THERMITE,Rainbow six seige
+431,MONTAGNE,Rainbow six seige
+432,TWITCH,Rainbow six seige
+433,DOC,Rainbow six seige
+434,ROOK,Rainbow six seige
+435,JÄGER,Rainbow six seige
+436,BANDIT,Rainbow six seige
+437,BLITZ,Rainbow six seige
+438,IQ,Rainbow six seige
+439,FUZE,Rainbow six seige
+440,GLAZ,Rainbow six seige
+441,TACHANKA,Rainbow six seige
+442,KAPKAN,Rainbow six seige
+443,Albedo,Genshin Impact
+444,Alhaitham,Genshin Impact
+445,Aloy,Genshin Impact
+446,Amber,Genshin Impact
+447,Arataki Itto,Genshin Impact
+448,Barbara,Genshin Impact
+449,Beidou,Genshin Impact
+450,Bennett,Genshin Impact
+451,Candace,Genshin Impact
+452,Chongyun,Genshin Impact
+453,Collei,Genshin Impact
+454,Cyno,Genshin Impact
+455,Diluc,Genshin Impact
+456,Diona,Genshin Impact
+457,Dori,Genshin Impact
+458,Eula,Genshin Impact
+459,Faruzan,Genshin Impact
+460,Fischl,Genshin Impact
+461,Ganyu,Genshin Impact
+462,Gorou,Genshin Impact
+463,Hu Tao,Genshin Impact
+464,Jean,Genshin Impact
+465,Kaedehara Kazuha,Genshin Impact
+466,Kaeya,Genshin Impact
+467,Kamisato Ayaka,Genshin Impact
+468,Kamisato Ayato,Genshin Impact
+469,Keqing,Genshin Impact
+470,Klee,Genshin Impact
+471,Kujou Sara,Genshin Impact
+472,Kuki Shinobu,Genshin Impact
+473,Layla,Genshin Impact
+474,Lisa,Genshin Impact
+475,Mona,Genshin Impact
+476,Nahida,Genshin Impact
+477,Nilou,Genshin Impact
+478,Ningguang,Genshin Impact
+479,Noelle,Genshin Impact
+480,Qiqi,Genshin Impact
+481,Raiden Shogun,Genshin Impact
+482,Razor,Genshin Impact
+483,Rosaria,Genshin Impact
+484,Sangonomiya Kokomi,Genshin Impact
+485,Sayu,Genshin Impact
+486,Shenhe,Genshin Impact
+487,Shikanoin Heizou,Genshin Impact
+488,Sucrose,Genshin Impact
+489,TartagliaChilde,Genshin Impact
+490,Thoma,Genshin Impact
+491,Tighnari,Genshin Impact
+492,Venti,Genshin Impact
+493,Wanderer,Genshin Impact
+494,Xiangling,Genshin Impact
+495,Xiao,Genshin Impact
+496,Xingqiu,Genshin Impact
+497,Xinyan,Genshin Impact
+498,Yae Miko,Genshin Impact
+499,Yanfei,Genshin Impact
+500,Yaoyao,Genshin Impact
+501,Yelan,Genshin Impact
+502,Yoimiya,Genshin Impact
+503,Yun Jin,Genshin Impact
+504,Zhongli,Genshin Impact
+505,Master Chief,Halo
+506,Cortana,Halo
+507,Avery Johnson,Halo
+508,Jacob Keyes,Halo
+509,Miranda Keyes,Halo
+510,Dr.Catherine Halsey,Halo
+511,James Ackerson,Halo
+512,Franklin Mendez,Halo
+513,Terrence Hood,Halo
+514,Serin Osman,Halo
+515,Thomas Lasky,Halo
+516,Roland,Halo
+517,The Weapon,Halo
+518,Echo216,Halo
+519,Fred104,Halo
+520,Linda058,Halo
+521,Kelly087,Halo
+522,Sarah Palmer,Halo
+523,Edward Buck,Halo
+524,Noble Six,Halo
+525,Jameson Locke,Halo
+526,Mickey Crespo,Halo
+527,Romeo Agusto,Halo
+528,Dutch Miles,Halo
+529,The Arbiter,Halo
+530,Tartarus,Halo
+531,Gravemind,Halo
+532,343 Guilty Spark,Halo
+533,Rtas Vadum,Halo
+534,Thel Vadam,Halo
+535,Vor Donnie Atin,Halo
+540,Anarki,Quake Champions
+541,Doomguy,Quake Champions
+542,Bj blazkowicz,Quake Champions
+543,Sorlag,Quake Champions
+544,Galena,Quake Champions
+545,Scalebearer,Quake Champions
+546,Athena,Quake Champions
+547,Bitterman,Quake Champions
+548,Sarge,Quake Champions
+549,H u n t e r,Quake Champions
+550,Strogg  peeker,Quake Champions
+551,Quake Guy,Quake Champions
+552,Mynx,Quake Champions
+553,Dire Orb,Quake Champions
+554,Chthon,Quake Champions
+555,Strogg,Quake Champions
+556,Xaero,Quake Champions
+557,Tank jr,Quake Champions
+558,Phobos,Quake Champions
+559,Duke Nukem,Quake Champions
+560,Makron,Quake Champions
+561,Kane,Quake Champions
+562,Caleb,Quake Champions
+563,Eleena,Quake Champions
+564,Dusa,Hades
+565,Asterius,Hades
+566,Megaera,Hades
+567,Thanatos,Hades
+568,Artemis,Hades
+569,Alecto,Hades
+570,Dionysus,Hades
+571,Hypnos,Hades
+572,Zagreus,Hades
+573,Aphrodite,Hades
+574,Pain and Panic,Hades
+575,Hercules,Hades
+576,Megara,Hades
+577,Fates,Hades
+578,Melinoë,Hades
+579,Price,Call Of Duty
+580,John McClane,Call Of Duty
+581,Khaled AlAsad,Call Of Duty
+582,Russell Adler,Call Of Duty
+583,Arthur Kingsley,Call Of Duty
+584,Simon Ghost Riley,Call Of Duty
+585,Ghostface,Call Of Duty
+586,David Mason,Call Of Duty
+587,Frank Woods,Call Of Duty
+588,John Rambo,Call Of Duty
+589,Dimitri Petrenko,Call Of Duty
+590,Norman Delaney,Call Of Duty
+591,Sarah Leary,Call Of Duty
+592,Grigori Weaver,Call Of Duty
+593,Blake,Call Of Duty
+594,Booth,Call Of Duty
+595,Vladimir Makarov,Call Of Duty
+596,Wade Jackson,Call Of Duty
+597,Alex Mason,Call Of Duty
+598,Nikolai Belinski,Call Of Duty
+599,Neitsch,Call Of Duty
+600,Bohater Wojciech,Call Of Duty
+601,Helen Park,Call Of Duty
+602,Black Noir,Call Of Duty
+603,Paul Jackson,Call Of Duty
+604,John Davis,Call Of Duty
+605,Brock,Call Of Duty
+606,Sergei Konstantinov,Call Of Duty
+607,Jason Hudson,Call Of Duty
+608,Farid,Call Of Duty
+609,T1000,Call Of Duty
+610,21 Savage,Call Of Duty
+611,Billy Handsome,Call Of Duty
+612,Nikolai Badanov,Call Of Duty
+613,Gary,Call Of Duty
+614,Logan Walker,Call Of Duty
+615,Joseph Allen,Call Of Duty
+616,Robert McNamara,Call Of Duty
+617,Lucas Riggs,Call Of Duty
+618,Edward Carlyle,Call Of Duty
+619,Viktor Reznov,Call Of Duty
+620,Fidel Castro,Call Of Duty
+621,George Barkley,Call Of Duty
+622,Marcus Burns,Call Of Duty
+623,Yasir AlFulani,Call Of Duty
+624,Abigail Misty Briarton,Call Of Duty
+625,Sergei Kozin,Call Of Duty
+626,Castros Double,Call Of Duty
+627,Gaines,Call Of Duty
+628,Miko,Battleborn
+629,Orendi,Battleborn
+630,El Dragón,Battleborn
+631,Galilea,Battleborn
+632,Kleese,Battleborn
+633,R a t h,Battleborn
+634,Reyna,Battleborn
+635,Battleborn,Battleborn
+636,Beatrix,Battleborn
+637,Benedict,Battleborn
+638,Kelvin,Battleborn
+639,Montana,Battleborn
+640,Oscar Mike,Battleborn
+641,Phoebe,Battleborn
+642,Shayne and Aurox,Battleborn
+643,Toby,Battleborn
+644,Whiskey foxtrot,Battleborn
+645,Marquis,Battleborn
+646,Kerillian,vermitide
+647,Victor Saltzpyre,vermitide
+648,Markus Kruber,vermitide
+649,Franz Lohner,vermitide
+650,Bardin Goreksson,vermitide

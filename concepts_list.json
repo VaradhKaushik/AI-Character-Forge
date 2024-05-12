@@ -1,0 +1,14 @@
+[
+    {
+        "instance_prompt": "1girl, depth of field, holding weapon, glowstick, akali, cosplay photo",
+        "class_prompt": "photo of a video game character",
+        "instance_data_dir": "./data/AKALI",
+        "class_data_dir": "./data/AKALI_instance"
+    },
+    {
+        "instance_prompt": "3d, depth of field, weapon, gun, spy, secret, intel, traps",
+        "class_prompt": "photo of a video game character",
+        "instance_data_dir": "./data/Cypher",
+        "class_data_dir": "./data/Cypher_instance"
+    }
+]
