@@ -1,7 +1,7 @@
 # AI Video Game Character Generator
 
 ## Overview
-This project harnesses the power of Stable Diffusion, DreamBooth, and LoRa technologies to generate highly customizable and unique video game characters. Developed as part of the CS 6140 course by Alexander Seljuk, Girish Kumar Adari, and Varadh Kaushik, this system aids creatives in generating detailed character images, boosting creativity and offering a vast array of character design possibilities.
+This project harnesses the power of Stable Diffusion, DreamBooth, and LoRa technologies to generate highly customizable and unique video game characters. This system aids creatives in generating detailed character images, boosting creativity and offering a vast array of character design possibilities.
 
 ## Features
 - **Custom Character Generation**: Create video game characters with unique visual traits and attributes.
